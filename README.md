@@ -43,7 +43,7 @@ It’s a lightweight, self-contained project using **HTML templates**, **CSS sty
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Cookies101-cookies/lost-and-found-tracker.git
+   git clone https://github.com/advik-cookies/lost-and-found-tracker.git
    cd lost-and-found-tracker
 
 2. **Run the app**
